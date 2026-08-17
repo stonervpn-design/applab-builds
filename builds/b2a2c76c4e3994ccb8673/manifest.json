@@ -1,0 +1,8 @@
+{
+  "name": "applab M5Stick S3 (custom)",
+  "version": "b2a2c76c4e3994ccb8673",
+  "new_install_prompt_erase": true,
+  "builds": [
+    { "chipFamily": "ESP32-S3", "parts": [ { "path": "firmware.bin", "offset": 0 } ] }
+  ]
+}
