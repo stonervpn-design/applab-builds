@@ -1,0 +1,8 @@
+{
+  "name": "applab Cardputer ADV (custom)",
+  "version": "b4b197f4eaeec4e73a07e",
+  "new_install_prompt_erase": true,
+  "builds": [
+    { "chipFamily": "ESP32-S3", "parts": [ { "path": "firmware.bin", "offset": 0 } ] }
+  ]
+}
