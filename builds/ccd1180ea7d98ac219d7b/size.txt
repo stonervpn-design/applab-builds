@@ -1,0 +1,1 @@
+build_id: ccd1180ea7d98ac219d7b  board: m5stick_s3  apps: archive,asteroids,bad_usb,blackjack,ble_spam,bus_tools,clock,defender,dice_app,esubghz_chat,flipper_pong,flippergotchi,game15,grove_i2c_scan,infrared,lan_attack,lora_monitor,meshtastic_sniffer,mifare_fuzzer,nfc,nfc_magic,nfc_share,nrf24,pin_config,pocketlab,power_monitor,proto_pirate,qrcode,subghz,wiegand,wlan
