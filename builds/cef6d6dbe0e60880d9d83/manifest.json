@@ -1,0 +1,8 @@
+{
+  "name": "applab Cardputer ADV (custom) [Momentum]",
+  "version": "cef6d6dbe0e60880d9d83",
+  "new_install_prompt_erase": true,
+  "builds": [
+    { "chipFamily": "ESP32-S3", "parts": [ { "path": "firmware.bin", "offset": 0 } ] }
+  ]
+}
