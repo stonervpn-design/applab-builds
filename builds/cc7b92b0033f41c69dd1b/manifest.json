@@ -1,0 +1,8 @@
+{
+  "name": "applab T-Embed CC1101+ (custom) [Momentum]",
+  "version": "cc7b92b0033f41c69dd1b",
+  "new_install_prompt_erase": true,
+  "builds": [
+    { "chipFamily": "ESP32-S3", "parts": [ { "path": "firmware.bin", "offset": 0 } ] }
+  ]
+}
