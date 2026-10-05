@@ -1,0 +1,8 @@
+{
+  "name": "applab M5Stick S3 (custom) [Momentum]",
+  "version": "c16ee261217173f6a126d",
+  "new_install_prompt_erase": true,
+  "builds": [
+    { "chipFamily": "ESP32-S3", "parts": [ { "path": "firmware.bin", "offset": 0 } ] }
+  ]
+}
