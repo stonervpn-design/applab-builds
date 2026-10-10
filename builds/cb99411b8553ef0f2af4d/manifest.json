@@ -1,0 +1,8 @@
+{
+  "name": "applab T-Embed CC1101+ (custom)",
+  "version": "cb99411b8553ef0f2af4d",
+  "new_install_prompt_erase": true,
+  "builds": [
+    { "chipFamily": "ESP32-S3", "parts": [ { "path": "firmware.bin", "offset": 0 } ] }
+  ]
+}
