@@ -1,7 +1,7 @@
 applab custom build FAILED
 build_id: c457f58b16c1efb27bb71
 board:    m5stack_cardputer_adv
-run:      https://github.com/stonervpn-design/applab-firmware-src/actions/runs/39892800431
+run:      https://github.com/stonervpn-design/applab-firmware-src/actions/runs/39896522417
 ===== build_output.log (tail) =====
 are-src/applab-firmware-src/applications_user/proto_pirate/helpers/../scenes/protopirate_scene_config.h:3,
                  from /__w/applab-firmware-src/applab-firmware-src/applications_user/proto_pirate/helpers/../scenes/protopirate_scene.h:10,
@@ -79,4 +79,4 @@ In file included from ../applications_user/proto_pirate/helpers/protopirate_mode
       |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <command-line>: note: this is the location of the previous definition
 ninja: build stopped: subcommand failed.
-ninja failed with exit code 1, output of the command is in the /__w/applab-firmware-src/applab-firmware-src/build/log/idf_py_stderr_output_502 and /__w/applab-firmware-src/applab-firmware-src/build/log/idf_py_stdout_output_502
+ninja failed with exit code 1, output of the command is in the /__w/applab-firmware-src/applab-firmware-src/build/log/idf_py_stderr_output_501 and /__w/applab-firmware-src/applab-firmware-src/build/log/idf_py_stdout_output_501
