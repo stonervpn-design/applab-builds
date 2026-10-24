@@ -1,7 +1,7 @@
 applab custom build FAILED
 build_id: c457f58b16c1efb27bb71
 board:    m5stack_cardputer_adv
-run:      https://github.com/stonervpn-design/applab-firmware-src/actions/runs/39942463469
+run:      https://github.com/stonervpn-design/applab-firmware-src/actions/runs/40064589827
 ===== build_output.log (tail) =====
 are-src/applab-firmware-src/applications_user/proto_pirate/helpers/../scenes/protopirate_scene_config.h:3,
                  from /__w/applab-firmware-src/applab-firmware-src/applications_user/proto_pirate/helpers/../scenes/protopirate_scene.h:10,
