@@ -1,7 +1,7 @@
 applab custom build FAILED
 build_id: c54ef957630f1995b757e
 board:    lilygo_t_embed_cc1101
-run:      https://github.com/stonervpn-design/applab-firmware-src/actions/runs/40171716318
+run:      https://github.com/stonervpn-design/applab-firmware-src/actions/runs/40172766496
 ===== build_output.log (tail) =====
 /applications_user/proto_pirate/helpers/../scenes/protopirate_scene_config.h:3,
                  from /__w/applab-firmware-src/applab-firmware-src/applications_user/proto_pirate/helpers/../scenes/protopirate_scene.h:10,
