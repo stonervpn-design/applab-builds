@@ -1,7 +1,7 @@
 applab custom build FAILED
 build_id: c4348a23f3b3890795236
 board:    lilygo_t_embed_cc1101
-run:      https://github.com/stonervpn-design/applab-firmware-src/actions/runs/40171152159
+run:      https://github.com/stonervpn-design/applab-firmware-src/actions/runs/40171223090
 ===== build_output.log (tail) =====
 irate/helpers/RemoteAnalyzer/protopirate_remote_analyzer_worker.c
 In file included from /__w/applab-firmware-src/applab-firmware-src/applications_user/proto_pirate/helpers/RemoteAnalyzer/../../scenes/protopirate_scene_config.h:3,
@@ -80,4 +80,4 @@ In file included from ../applications_user/proto_pirate/helpers/protopirate_mode
       |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <command-line>: note: this is the location of the previous definition
 ninja: build stopped: subcommand failed.
-ninja failed with exit code 1, output of the command is in the /__w/applab-firmware-src/applab-firmware-src/build/log/idf_py_stderr_output_501 and /__w/applab-firmware-src/applab-firmware-src/build/log/idf_py_stdout_output_501
+ninja failed with exit code 1, output of the command is in the /__w/applab-firmware-src/applab-firmware-src/build/log/idf_py_stderr_output_503 and /__w/applab-firmware-src/applab-firmware-src/build/log/idf_py_stdout_output_503
